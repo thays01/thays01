@@ -33,4 +33,4 @@
   </div>
    
    
-    ![Snake animation](https://github.com/thays01/thays01/blob/output/github-contribution-grid-snake.svg)
+
