@@ -27,5 +27,7 @@
   <a href = "mailto:thayscarolinesouza1@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/> </a>
   <a href="https://www.linkedin.com/in/thayscarolinesouza1/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> </a> 
   <a href="https://twitter.com/thayscarolinex" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png"/> </a>
+      
+      ![Snake animation](https://github.com/thays01)
     
   </div>
