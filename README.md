@@ -1,4 +1,4 @@
-### Olá me chamo Thays! 👋
+### Olá, me chamo Thays! 👋
 
 👩‍💻 **Quality Assurance**  
 🎓 Graduada em Sistemas para Internet  
