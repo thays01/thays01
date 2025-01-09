@@ -1,19 +1,19 @@
 ### Olá me chamo Thays! 👋
 
+👩‍💻 **Quality Assurance**  
+🎓 Graduada em Sistemas para Internet  
+ 🛠️ Especialista em:  
+- **Cucumber** e **Ruby**  
+- Escrita e manutenção de testes em **Gherkin**  
+- Automação e execução de **testes manuais**
+- Escrita de cenários BDD para testes funcionais e automatizados
+- Automação e execução de testes manuais
+- Monitoramento de bugs e acompanhamento de resoluções
+- Criação de documentações técnicas e funcionais claras e organizadas
 
+🎯 Apaixonada por garantir qualidade em produtos e criar soluções eficientes para testes, sempre buscando aprimorar processos e entregar valor ao cliente. 🚀  
 
-- 🔭 Em busca da minha primeira oportunidade na área!
-- 🌱 Atualmente estou estudando tecnologias de desenvolvimento Front-End Web.
-- 😄 Pronouns: Ela/Dela
-- ⚡ Tenho 24 anos, cursando Sistemas para Internet, e estou em busca de uma oportunidade de estágio, na minha área de estudos. Minhas experiências profissionais até então são no comércio varejista. Experiências que contribuíram muito para o meu desenvolvimento pessoal, pois hoje, possuo uma boa comunicação, agilidade e boas relações interpessoais! 
-
-
-   <img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
-   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-  
-
+📚 Sempre em busca de novos desafios e aprendizados na área de tecnologia!  
 
 <div align="center">
   <a href="https://github.com/thays01">
@@ -23,14 +23,11 @@
   
   
    <div align="center"> 
-  <a href="https://www.instagram.com/thayscaroline1/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
+  
   <a href = "mailto:thayscarolinesouza1@gmail.com"> <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/> </a>
   <a href="https://www.linkedin.com/in/thayscarolinesouza1/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> </a> 
-  <a href="https://twitter.com/thayscarolinex" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png"/> </a>
-      
-     
-    
-  </div>
+  
+   </div>
    
    
 
