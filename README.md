@@ -3,8 +3,8 @@
 👩‍💻 **Quality Assurance**  
 🎓 Graduada em Sistemas para Internet  
  
- 🛠️ Especialista em:  
-- **Cucumber** e **Ruby**  
+ 🛠️ Especialista em:
+ - **Cucumber** e **Ruby**  
 - Escrita e manutenção de testes em **Gherkin**  
 - Automação e execução de **testes manuais**
 - Escrita de cenários BDD para testes funcionais e automatizados
